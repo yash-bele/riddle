@@ -264,6 +264,9 @@
 /* ===== RESPONSIVE ===== */
 /* ===== RESPONSIVE ===== */
 @media screen and (max-width: 1250px) {
+    .container {
+        background: linear-gradient(to right, #674BB1, #674BB1);
+    }
     .header {
         max-width: none;
     }

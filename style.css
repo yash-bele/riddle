@@ -142,7 +142,7 @@ body {
 .big-rect:nth-child(2) {
     position: absolute;
     top: 173px;
-    right: -92px;
+    right: -93px;
 }
 .big-rect:nth-child(2) .big-rect-head {
     width: 200px;

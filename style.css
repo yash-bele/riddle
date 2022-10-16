@@ -273,7 +273,7 @@
         max-width: none;
     }
     .header img {
-        margin: 20px 20px;
+        margin: 20px;
     }
     .main {
         height: 75%;
@@ -318,7 +318,6 @@
     .big-rect-main-middle .dummy {
         margin: 17px 0px;
     }
-    /*  */
     .big-rect-main-middle .dummy div:nth-child(1) {
         width: 50px;
         height: 7px;
@@ -454,7 +453,7 @@
     /* ===== FOOTER ===== */
     /* ===== FOOTER ===== */
     .footer {
-        bottom: 15px;
+        bottom: 20px;
         right: auto;
     }
     .footer a {

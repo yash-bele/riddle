@@ -264,11 +264,6 @@
 /* ===== RESPONSIVE ===== */
 /* ===== RESPONSIVE ===== */
 @media screen and (max-width: 1250px) {
-    body {
-        width: 100vw;
-        height: 100vh;
-        background: linear-gradient(to right, #674BB1, #674BB1);
-    }
     .header {
         max-width: none;
     }
@@ -469,7 +464,7 @@
 }
 
 @media screen and (max-width: 500px) {
-    body {
+    .container {
     background: url(./assets/bg-mobile.png) no-repeat center top / 100%, linear-gradient(to right, #674BB1, #674BB1);
     }
 }
